@@ -1776,11 +1776,5 @@ Platform REST API v3 objects
 
 而 Match Model、删除事件和最初创建人，应分别使用受支持的 Business 360 metadata/export 能力以及 Platform Audit Log 作为补充。
 
-[Informatica IDMC Assurance Service User Guide 页面
-官方：IDMC Assurance Service MDM Asset Deployment
-官方：IDMC Assurance Service Deployment Automation
-官方：Deployment Flow in IDMC Assurance Service
-官方：June 2026 Release Highlights
-官方：Business 360 资产迁移前提条件
-IDMC Assurance Service Data Integration User Guide_June_2026.pdf
-IDMC Assurance Service Master Data Management User Guide_May_2026.pdf](https://chatgpt.com/c/6a66b8c4-0a7c-83ee-bfa3-de9b5cf84a5b#:~:text=Informatica%20IDMC%20Assurance,User%20Guide_May_2026.pdf)
+https://success.informatica.com/videos/support-videos/P5NTX-AP8cc.html
+
