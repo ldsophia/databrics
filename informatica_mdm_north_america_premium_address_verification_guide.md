@@ -971,3 +971,5 @@ For Company and Contact business entities:
 7. Preserve raw values, standardized values, status, quality, timestamp, and lineage.
 8. Start in shadow mode, measure match impact, and enable rejection only after steward review.
 
+https://success.informatica.com/success-accelerators/informatica-data-quality---address-validation-overview.html
+
